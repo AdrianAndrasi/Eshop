@@ -156,6 +156,9 @@ h6 {
   margin: 0px;
   text-align: center;
 }
+.picture-container .offer-panel h4 {
+  text-align: center;
+}
 .picture-container .offer-panel .foto-price {
   position: relative;
   margin-top: 0px;
